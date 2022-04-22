@@ -40,8 +40,7 @@ function Header() {
             Rahul Sharma
           </Text>
           <Text color={isDark ? "gray.200" : "gray.500"}>
-            FrontEnd Developer | ReactJS, VueJS &<br />
-            C++ Programmer , 3 ⚝ on CodeChef
+            Full Stack Web Developer | Tech Stack: MERN/MEVN
           </Text>
           <ButtonGroup variant="outline" spacing="6">
             <Button
